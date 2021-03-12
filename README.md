@@ -339,6 +339,3 @@ Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
 - [Exploring Hate Speech Detection in Multimodal Publications](https://arxiv.org/abs/1910.03814)
 
 - [Supervised Multimodal Bitransformers for Classifying Images and Text](https://arxiv.org/abs/1909.02950)
-
-## License
-MIT
